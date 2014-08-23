@@ -1,4 +1,5 @@
 # Spacegray Solarized
+![Spacegray Solarized theme screenshot](Screenshots/spacegray-solarized.png)
 
 A Solarized-flavoured port of the [Spacegray theme](http://kkga.github.io/spacegray/). Follow the instructions as below, but instead use the following for your theme:
 
