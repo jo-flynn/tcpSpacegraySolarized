@@ -1,3 +1,15 @@
+# Spacegray Solarized
+
+A Solarized-flavoured port of the [Spacegray theme](http://kkga.github.io/spacegray/). Follow the instructions as below, but instead use the following for your theme:
+
+`"theme:" "Spacegray Solarized Dark.sublime-theme"`
+
+…and be sure to set your colour scheme to:
+
+`"color_scheme": "Solarized (dark) (SL).tmTheme"`
+
+Enjoy! Original Spacegray README follows:
+
 # Spacegray
 
 A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying [Base16](https://github.com/chriskempson/base16) color schemes.
