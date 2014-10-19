@@ -1,7 +1,7 @@
 # Spacegray Solarized
 ![Spacegray Solarized theme screenshot](Screenshots/spacegray-solarized.png)
 
-A Solarized-flavoured port of the [Spacegray theme](http://kkga.github.io/spacegray/). Clone this repo (or [download the .zip](http://lab.colepeters.com/cole/tcpspacegraysolarized/repository/archive.zip?ref=master)) to get started (it’s not available on Sublime’s package manager because I am insanely lazy). Then follow the instructions as below, but instead use the following for your theme:
+A Solarized-flavoured port of the [Spacegray theme](http://kkga.github.io/spacegray/). Clone this repo (or [download the .zip](https://github.com/colepeters/tcpSpacegraySolarized/archive/master.zip)) to get started (it’s not available on Sublime’s package manager because I am insanely lazy). Then follow the instructions as below, but instead use the following for your theme:
 
 `"theme:" "Spacegray Solarized Dark.sublime-theme"`
 
