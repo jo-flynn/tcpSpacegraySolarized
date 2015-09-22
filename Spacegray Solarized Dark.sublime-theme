@@ -77,7 +77,7 @@
         "class": "tab_control",
         "attributes": ["selected"],
         "layer0.texture": "",
-        "layer0.tint": [88, 110, 117], // BASE01
+        "layer0.tint": [4, 32, 41], // BASE03
         "layer0.opacity": 0.5
     },
     // Tab dirty state (close button hidden)
@@ -182,7 +182,7 @@
         "class": "tab_label",
         "fade": true,
         "fg": [147, 161, 161], // BASE1
-        "font.face": "Fira Mono",
+        "font.face": "Input",
         "font.size": 10 // Otherwise the font gets cut off at bottom
     },
     {
@@ -465,7 +465,7 @@
         "parents": [{"class": "status_bar"}],
         "color": [131, 148, 150], //BASE0
         "font.size": 13.0,
-        "font.face": "Fira Mono"        
+        "font.face": "Input"
     },
 
 //
@@ -509,7 +509,7 @@
         "class": "sidebar_heading",
         "color": [211,  54, 130], // MAGENTA
         "font.bold": false,
-        "font.face": "Fira Mono"
+        "font.face": "Input"
     },
     {
         "class": "sidebar_tree",
@@ -546,7 +546,7 @@
     {
         "class": "sidebar_label",
         "color": [88, 110, 117], // BASE01
-        "font.face": "Fira Mono"
+        "font.face": "Input"
     },
     {
         "class": "sidebar_label",
